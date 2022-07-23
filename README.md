@@ -2,4 +2,4 @@
 
 Адаптивная верстка макета
 
-Посмотреть [здесь]https://tsvitko.github.io/layout_portfolio/
+Посмотреть [здесь](https://tsvitko.github.io/layout_portfolio)
